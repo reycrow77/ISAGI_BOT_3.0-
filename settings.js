@@ -13,13 +13,11 @@ const axios = require('axios')
 
 //---------[ PROPIETARIO/OWNER ]---------
 global.owner = [
-    ["50582340051", "Owner", true],
-    ["595984838201"],
-    ["51918534156"],
-    ["123456789"]
+    ["573015270038", "Owner", true],
+    ["5491156178758", "staff",true],
 ]
 global.mods = []
-global.premium = []
+global.premium = [573015270038', '5491156178758]
 global.blockList = []
 
 //---------[ NOMBRE/INFO ]---------
