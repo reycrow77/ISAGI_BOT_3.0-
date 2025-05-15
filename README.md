@@ -2,7 +2,8 @@
 
 
 <p align="center">
-<a href="#">https://files.catbox.moe/0mbxmz.jpg<img
+    <img src="https://files.catbox.moe/0mbxmz.jpg" width="160" height="160"/>
+  </p>
 
 ------------------
 
