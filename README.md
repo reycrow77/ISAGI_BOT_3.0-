@@ -1,4 +1,4 @@
-> <b> Versión 2.1 </b>
+> <b> Versión 3.0 </b>
 
 
 <p align="center">
